@@ -5,6 +5,6 @@ sentence = ['The', ' jumped of the', '.']
 phrase = ''
 
 for i in range(len(sentence)):
-    phrase += sentence[i]
+    phrase += sentence[i] + words[i]
 
 print(phrase)
