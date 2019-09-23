@@ -1,6 +1,6 @@
 # This simple project creates a phrased based on user's input
 
-words = ['black', 'cat', 'balcony']
+words = [' black', ' cat', ' balcony']
 sentence = ['The', ' jumped of the', '.']
 phrase = ''
 
