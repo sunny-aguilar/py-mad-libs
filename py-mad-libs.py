@@ -7,4 +7,4 @@ phrase = ''
 for i in range(len(sentence)):
     phrase += sentence[i]
 
-
+print(phrase)
