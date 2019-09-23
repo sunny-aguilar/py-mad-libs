@@ -2,7 +2,7 @@
 
 words = ['cat', 'balcony']
 sentence = ['The', 'jumped of the', '.']
-
+phrase = ''
 
 
 
