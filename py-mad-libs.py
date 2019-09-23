@@ -1,7 +1,7 @@
 # This simple project creates a phrased based on user's input
 
-words = [' cat', ' balcony', '']
-sentence = ['The', ' jumped of the', '']
+words = [' cat', ' balcony', ' ran.']
+sentence = ['The', ' jumped of the', ' and it']
 phrase = ''
 
 for i in range(len(sentence)):
