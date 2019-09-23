@@ -4,6 +4,7 @@ words = ['cat', 'balcony']
 sentence = ['The', 'jumped of the', '.']
 phrase = ''
 
-
+for word in len(sentence):
+    phrase
 
 
